@@ -1,13 +1,4 @@
-- title: Adventures in Three Monads
-  url: http://web.mit.edu/~ezyang/Public/threemonads.pdf
-  authors:
-    - Edward Z. Yang
-  type: light research paper
-  tags:
-    - Failure monad
-    - Logic monad
-    - monads
-    - Prompt monad
+# Items that were added to HaskAnything are removed from the list.
 
 - title: What are free monads?
   url: http://stackoverflow.com/questions/13352205/what-are-free-monads
